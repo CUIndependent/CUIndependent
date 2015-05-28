@@ -22,7 +22,7 @@ class Person {
 
 ##Indentation/Whitespace
 
-All line indentation must be 2 spaces, do not use tabs. You can change the defualts in your editor to do this automatically.
+All line indentation must be 4 spaces, do not use tabs. You can change the defualts in your editor to do this automatically.
 
 Do not leave trailing whitespaces at the end of lines.
 
