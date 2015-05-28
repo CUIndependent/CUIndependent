@@ -1,6 +1,5 @@
 #Swift Specific styles
 
-- Use 4 spaces as the indentation for all swift files. Do not use tabs.
 - Do not use semicolons in swift with the exception of `for` statements.
 - Use swift's native types as much as possible as opposed to Objective-C NS types.
 - Use `let` as much as possible instead of `var`
